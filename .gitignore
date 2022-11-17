@@ -97,3 +97,5 @@ data/val/segment-12027892938363296829_4086_280_4106_280_with_camera_labels.tfrec
 data/val/segment-12161824480686739258_1813_380_1833_380_with_camera_labels.tfrecord
 data/val/segment-12174529769287588121_3848_440_3868_440_with_camera_labels.tfrecord
 data/val/segment-12179768245749640056_5561_070_5581_070_with_camera_labels.tfrecord
+__pycache__/utils.cpython-37.pyc
+.ipynb_checkpoints/Exploratory Data Analysis-checkpoint.ipynb
