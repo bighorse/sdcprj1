@@ -1,3 +1,8 @@
+[//]: # (Image References)
+
+[image1]: ./Figure_1.png "EDA Figure"
+[image2]: ./Figure_2.png "EDA Figure"
+
 ### Project overview
 This section should contain a brief description of the project and what we are trying to achieve. Why is object detection such an important component of self driving car systems?
 
@@ -7,6 +12,8 @@ This section should contain a brief description of the steps to follow to run th
 ### Dataset
 #### Dataset analysis
 This section should contain a quantitative and qualitative description of the dataset. It should include images, charts and other visualizations.
+![alt text][image1]
+![alt text][image2]
 #### Cross validation
 This section should detail the cross validation strategy and justify your approach.
 
