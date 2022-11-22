@@ -1,6 +1,10 @@
 sudo apt-get update
 sudo apt-get install chromium-browser
 sudo chromium-browser --no-sandbox 
+
+git config --global user.email "maguangjun@gmail.com"
+git config --global user.name "Guangjun Ma"
+
 # Object Detection in an Urban Environment
 
 ## Data
