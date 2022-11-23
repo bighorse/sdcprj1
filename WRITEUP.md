@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./Figure_1.png "EDA Figure"
+[image1]: ./Figure_2.png "EDA Figure"
 
 ### Project overview
 Humans drive car mainly by eyes, the visual ability. Not only the object classification, but also the tracking of many objects. So the object detection, one of the AI technologies, is the most suitable technology for self driving car system.
@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 * Load the Waymo Open Dataset
 * Explore and visualize the data set
 * Design, train and test a model architecture
-* Use the model to make predictions on new images in a video
+* Use the model to make predictions on new images by animaition
 
 ### Set up
 Because I'm using the classroom workspace with the necessary libraries and data already available, thanks Udacity, there's no need to set up development environment. Just git clone my repository, then run it!
@@ -20,7 +20,7 @@ Because I'm using the classroom workspace with the necessary libraries and data 
 * The size of training set is ?
 * The size of the validation set is ?
 * The size of test set is ?
-* The shape of a traffic sign image is ?
+* The shape of an image is width 640px, height 640px, 3 color channels.
 * The number of unique classes in the data set is ?
 * The distribution of classes is
 
