@@ -3,10 +3,16 @@
 [image1]: ./Figure_1.png "EDA Figure"
 
 ### Project overview
-This section should contain a brief description of the project and what we are trying to achieve. Why is object detection such an important component of self driving car systems?
+Humans drive car mainly by eyes, the visual ability. Not only the object classification, but also the tracking of many objects. So the object detection, one of the AI technologies, is the most suitable technology for self driving car system.
+
+The goals / steps of this project are the following:
+* Load the Waymo Open Dataset
+* Explore and visualize the data set
+* Design, train and test a model architecture
+* Use the model to make predictions on new images in a video
 
 ### Set up
-This section should contain a brief description of the steps to follow to run the code for this repository.
+Because I'm using the classroom workspace with the necessary libraries and data already available, thanks Udacity, there's no need to set up development environment. Just git clone my repository, then run it!
 
 ### Dataset
 #### Dataset analysis
@@ -16,14 +22,10 @@ This section should contain a brief description of the steps to follow to run th
 * The size of test set is ?
 * The shape of a traffic sign image is ?
 * The number of unique classes in the data set is ?
+* The distribution of classes is
 
-Here is an exploratory visualization of the data set. 
+Here is an exploratory visualization of the data set, 10 images randomly. 
 ![alt text][image1]
-
-And the distribution of classes 
-
-#### Cross validation
-This section should detail the cross validation strategy and justify your approach.
 
 ### Training
 #### Reference experiment
