@@ -21,8 +21,7 @@ Because I'm using the classroom workspace with the necessary libraries and data 
 * The size of the validation set is ?
 * The size of test set is ?
 * The shape of an image is width 640px, height 640px, 3 color channels.
-* The number of unique classes in the data set is ?
-* The distribution of classes is
+* The distribution of classes is: vehicle - 77.6%, pedestrian - 21.8%, cyclist - 0.6%
 
 Here is an exploratory visualization of the data set, 10 images randomly. 
 ![alt text][image1]
