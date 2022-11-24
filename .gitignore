@@ -1,5 +1,8 @@
 .ipynb_checkpoints/
-experiments/*
+experiments/pretrained_model
+experiments/reference/exported
+experiments/reference/eval
+experiments/reference/train
 data/test/segment-1208303279778032257_1360_000_1380_000_with_camera_labels.tfrecord
 data/test/segment-12012663867578114640_820_000_840_000_with_camera_labels.tfrecord
 data/test/segment-12200383401366682847_2552_140_2572_140_with_camera_labels.tfrecord
