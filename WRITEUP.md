@@ -6,6 +6,8 @@
 [image4]: ./Iter3_loss.png "Iteration 3 Loss Graph"
 [image5]: ./Iter5_loss.png "Iteration 5 Loss Graph"
 [image6]: ./Iter5_testpic1.png "Iteration 5 Inference video shotcut"
+[image7]: ./aug1.png "augmentation 1"
+[image8]: ./aug2.png "augmentation 2"
 
 ### Project overview
 Humans drive car mainly by eyes, the visual ability. Not only the object classification, but also the tracking of many objects. So the object detection, one of the AI technologies, is the most suitable technology for self driving car system.
@@ -95,6 +97,7 @@ The batchsize was changed to 4, and the following augmentation options were adde
     }
   }
 ```
+ ![alt text][image7] ![alt text][image8]
 
  #### Iteration 5:
  The batchsize is changed to 8, plus the same augmentation options for iteration 4. The loss curve is a little oscillating, and the mAP is not as good as iteration 3. However, the night scene recognition effect is particularly good. the problem of not recognizing the oncoming car at a distance in iteration 3(without augmentation) has been perfectly solved (as shown in the screenshot).
